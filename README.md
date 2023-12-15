@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bastisob12
+- 👋 Hi, I’m  Sobhan Bastia (@bastisob12)
 - 👀 I’m interested in data analytics or market research domain
 - 🌱 I’m currently learning all analytics tools 
 - Am looking for an opportunity in the field of analytics domain 
